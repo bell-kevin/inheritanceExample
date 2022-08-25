@@ -1,0 +1,2 @@
+# inheritanceExample
+inheritance Example
