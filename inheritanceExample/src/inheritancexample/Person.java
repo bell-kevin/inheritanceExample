@@ -12,11 +12,11 @@ public class Person {
 //******************************************************************************
 
     public Person() {
-    }
+    } // end zero-parameter constructor
 
     public Person(String name) {
         this.name = name;
-    }
+    } // end constructor
 //******************************************************************************
 
     public String getName() {
