@@ -12,7 +12,7 @@ public class FullTime extends Employee {
 //******************************************************************************
 
     public FullTime() {
-    }
+    } // end zero-parameter constructor
 
     public FullTime(String name, int id, double salary) {
         super(name, id); // This calls the two-parameter Employee constructor.
