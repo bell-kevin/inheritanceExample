@@ -23,5 +23,5 @@ public class Employee extends Person {
     public void display() {
         System.out.println("name: " + getName());
         System.out.println("id: " + id);
-    } // end display method
+    } // end accessor method
 } // end Employee class
