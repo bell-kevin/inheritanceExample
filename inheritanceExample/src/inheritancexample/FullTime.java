@@ -6,7 +6,7 @@
  **************************************************************************** */
 package inheritancexample;
 
-public class FullTime {
+public class FullTime extends Employee {
 
     private double salary = 0.0;
 //******************************************************************************
