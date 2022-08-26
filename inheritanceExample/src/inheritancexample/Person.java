@@ -21,5 +21,5 @@ public class Person {
 
     public String getName() {
         return this.name;
-    }
+    } // end getName method
 } // end Person class
